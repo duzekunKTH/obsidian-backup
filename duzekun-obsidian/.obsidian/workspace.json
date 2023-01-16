@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLUOPS.md",
+                "file": "工作记录/MLUOPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,11 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04ee33cbdd3c5f84",
+  "active": "37fd0e4ed3751b84",
   "lastOpenFiles": [
     "代码学习/static 关键字.md",
     "代码学习/函数声明的特殊情况（无参数）.md",
-    "MLUOPS.md",
-    "docker相关.md"
+    "工作记录/MLUOPS.md",
+    "工作记录/docker相关.md"
   ]
 }
